@@ -1,0 +1,600 @@
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one coat", "sentence": "One purple coat."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one toilet", "sentence": "One green toilet."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one pairs of trousers", "sentence": "One pair of black trousers."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "1 curtain", "sentence": "one purple curtain."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one fork", "sentence": "One red fork."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one bowl", "sentence": "One marble bowl."}
+{"meta_data": {"objects": ["woman"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one woman", "sentence": "One angry woman."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one book", "sentence": "One black book."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one clock", "sentence": "One square clock."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one knife", "sentence": "One green knife."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one horse", "sentence": "One angry horse."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "1 broccoli", "sentence": "one purple broccoli."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one frisbee", "sentence": "One pink frisbee."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one sink", "sentence": "One yellow sink."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "1 tennis racket", "sentence": "one green tennis racket."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one mouse", "sentence": "One pink mouse."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one giraffe", "sentence": "One white giraffe."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one pairs of skis", "sentence": "One pair of pink skis."}
+{"meta_data": {"objects": ["toothbrush"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one toothbrush", "sentence": "One pink toothbrush."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one dining table", "sentence": "One crescentic dining table."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one tv", "sentence": "One yellow TV."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one baseball glove", "sentence": "One black baseball glove."}
+{"meta_data": {"objects": ["surfboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one surfboard", "sentence": "One white surfboard."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one boat", "sentence": "One resin boat."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one hair drier", "sentence": "One black hair dryer."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one baseball bat", "sentence": "One white baseball bat."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one traffic light", "sentence": "One yellow traffic light."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one fire hydrant", "sentence": "One yellow fire hydrant."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "1 umbrella", "sentence": "one purple umbrella."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one suitcase", "sentence": "One white suitcase."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one street sign", "sentence": "One diamond-shaped street sign."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one train", "sentence": "One rubber train."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one cup", "sentence": "One oval cup."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one dog", "sentence": "One purple dog."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one skateboard", "sentence": "One black skateboard."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one sandwich", "sentence": "One blue sandwich."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one parking meter", "sentence": "One black parking meter."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one vase", "sentence": "One purple vase."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one shirt", "sentence": "One purple shirt."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one bus", "sentence": "One concrete bus."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "1 dress", "sentence": "one purple dress."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one kite", "sentence": "One square kite."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one sports ball", "sentence": "One white sports ball."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one backpack", "sentence": "One heart-shaped backpack."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "1 carrot", "sentence": "one black carrot."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one cell phone", "sentence": "One white cell phone."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "1 donut", "sentence": "one blue doughnut."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one handbag", "sentence": "One white handbag."}
+{"meta_data": {"objects": ["refrigerator"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one refrigerator", "sentence": "One purple refrigerator."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 1}}, "prototype": "one man", "sentence": "One calm man."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two snowboard", "sentence": "Two pink snowboards."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two pairs of scissors", "sentence": "Two pairs of purple scissors."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two hot dog", "sentence": "Two blue hot dogs."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two fork", "sentence": "Two wooden forks."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two mouse", "sentence": "Two white mice."}
+{"meta_data": {"objects": ["refrigerator"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two refrigerator", "sentence": "Two green refrigerators."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two bottle", "sentence": "Two wooden bottles."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two cow", "sentence": "Two green cows."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two fire hydrant", "sentence": "Two red fire hydrants."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two pairs of eye glasses", "sentence": "Two pairs of purple eyeglasses."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two baseball bat", "sentence": "Two white baseball bats."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two bicycle", "sentence": "Two fabric bicycles."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two cat", "sentence": "Two afraid cats."}
+{"meta_data": {"objects": ["surfboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two surfboard", "sentence": "Two yellow surfboards."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two pizza", "sentence": "Two pink pizzas."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "2 knife", "sentence": "two red knives."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two elephant", "sentence": "Two calm elephants."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two handbag", "sentence": "Two yellow handbags."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two couch", "sentence": "Two blue couches."}
+{"meta_data": {"objects": ["woman"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two woman", "sentence": "Two angry women."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two potted plant", "sentence": "Two terracotta potted plants."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two toaster", "sentence": "Two yellow toasters."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two curtain", "sentence": "Two fabric curtains."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two chair", "sentence": "Two stone chairs."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two bird", "sentence": "Two red birds."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two broccoli", "sentence": "Two black pieces of broccoli."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two baseball glove", "sentence": "Two white baseball gloves."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "2 motorcycle", "sentence": "two black motorcycles."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two bus", "sentence": "Two concrete buses."}
+{"meta_data": {"objects": ["toothbrush"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two toothbrush", "sentence": "Two purple toothbrushes."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two pairs of trousers", "sentence": "Two pairs of blue trousers."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "2 traffic light", "sentence": "two blue traffic lights."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two horse", "sentence": "Two bored horses."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two car", "sentence": "Two rubber cars."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two toilet", "sentence": "Two acrylic toilets."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two oven", "sentence": "Two black ovens."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two girl", "sentence": "Two happy girls."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "2 bed", "sentence": "two rattan beds."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two pairs of skis", "sentence": "Two pairs of white skis."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two coat", "sentence": "Two green coats."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two bowl", "sentence": "Two black bowls."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "2 truck", "sentence": "two red trucks."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two dining table", "sentence": "Two hexagonal dining tables."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two shirt", "sentence": "Two floral shirts."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "2 keyboard", "sentence": "two black keyboards."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two banana", "sentence": "Two blue bananas."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two cup", "sentence": "Two glass cups."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two sheep", "sentence": "Two green sheep."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two bear", "sentence": "Two pink bears."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 2}}, "prototype": "two carpet", "sentence": "Two wooden carpets."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 baseball glove", "sentence": "three blue baseball gloves."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three fire hydrant", "sentence": "Three red fire hydrants."}
+{"meta_data": {"objects": ["woman"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three woman", "sentence": "Three excited women."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three keyboard", "sentence": "Three green keyboards."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three pizza", "sentence": "Three pink pizzas."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three kite", "sentence": "Three yellow kites."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three skateboard", "sentence": "Three purple skateboards."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three toilet", "sentence": "Three bamboo toilets."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three oven", "sentence": "Three red ovens."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 shirt", "sentence": "three red shirts."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three sandwich", "sentence": "Three red sandwiches."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three potted plant", "sentence": "Three concrete potted plants."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three tv", "sentence": "Three black TVs."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 toaster", "sentence": "three pink toasters."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 T-shirt", "sentence": "three red T-shirts."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three elephant", "sentence": "Three calm elephants."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 bed", "sentence": "Three trapezoidal beds."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 traffic light", "sentence": "three white traffic lights."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three microwave", "sentence": "Three red microwaves."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three apple", "sentence": "Three green apples."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three coat", "sentence": "Three green coats."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 snowboard", "sentence": "three black snowboards."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three hot dog", "sentence": "Three black hot dogs."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 horse", "sentence": "three bored horses."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three cup", "sentence": "Three pentagonal cups."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three fork", "sentence": "Three black forks."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 baseball bat", "sentence": "three white baseball bats."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three pairs of trousers", "sentence": "Three pairs of striped trousers."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three baby", "sentence": "Three surprised babies."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three car", "sentence": "Three rubber cars."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three suitcase", "sentence": "Three green suitcases."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three remote", "sentence": "Three black remotes."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three boat", "sentence": "Three yellow boats."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three pairs of scissors", "sentence": "Three pairs of purple scissors."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 book", "sentence": "three white books."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three tennis racket", "sentence": "Three green tennis rackets."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three carrot", "sentence": "Three purple carrots."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three knife", "sentence": "Three pink knives."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 carpet", "sentence": "three white carpets."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "3 backpack", "sentence": "three green backpacks."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three airplane", "sentence": "Three wooden airplanes."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three sheep", "sentence": "Three excited sheep."}
+{"meta_data": {"objects": ["surfboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three surfboard", "sentence": "Three green surfboards."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three bench", "sentence": "Three oval benches."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three chair", "sentence": "Three striped chairs."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three banana", "sentence": "Three yellow bananas."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three bus", "sentence": "Three yellow buses."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three bowl", "sentence": "Three acrylic bowls."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three broccoli", "sentence": "Three white broccolis."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 3}}, "prototype": "three mouse", "sentence": "Three white mice."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four motorcycle", "sentence": "Four stone motorcycles."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four orange", "sentence": "Four yellow oranges."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four broccoli", "sentence": "Four green broccolis."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four car", "sentence": "Four red cars."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 hair drier", "sentence": "four blue hair dryers."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four backpack", "sentence": "Four pink backpacks."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 bottle", "sentence": "four wooden bottles."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 man", "sentence": "Four surprised men."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 coat", "sentence": "four paisley coats."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four pairs of skis", "sentence": "Four pairs of blue skis."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 carpet", "sentence": "four red carpets."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four toaster", "sentence": "Four green toasters."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four cake", "sentence": "Four yellow cakes."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 toilet", "sentence": "four steel toilets."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four cup", "sentence": "Four round cups."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four pairs of trousers", "sentence": "Four pairs of plaid trousers."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four bowl", "sentence": "Four hexagonal bowls."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four remote", "sentence": "Four black remotes."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four bus", "sentence": "Four red buses."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four bed", "sentence": "Four geometric beds."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four laptop", "sentence": "Four black laptops."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 spoon", "sentence": "four aluminum spoons."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four bench", "sentence": "Four green benches."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 tennis racket", "sentence": "four black tennis rackets."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four umbrella", "sentence": "Four red umbrellas."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four carrot", "sentence": "Four black carrots."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four baby", "sentence": "Four surprised babies."}
+{"meta_data": {"objects": ["surfboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four surfboard", "sentence": "Four green surfboards."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four keyboard", "sentence": "Four white keyboards."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four mouse", "sentence": "Four pink mice."}
+{"meta_data": {"objects": ["toothbrush"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four toothbrush", "sentence": "Four purple toothbrushes."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four giraffe", "sentence": "Four purple giraffes."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four suitcase", "sentence": "Four purple suitcases."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four handbag", "sentence": "Four red handbags."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four sheep", "sentence": "Four angry sheep."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four curtain", "sentence": "Four wool curtains."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four chair", "sentence": "Four checked chairs."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four boy", "sentence": "Four excited boys."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 zebra", "sentence": "Four angry zebras."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four sandwich", "sentence": "Four purple sandwiches."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four pizza", "sentence": "Four red pizzas."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four frisbee", "sentence": "Four black frisbees."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 fire hydrant", "sentence": "four blue fire hydrants."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four train", "sentence": "Four pink trains."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four snowboard", "sentence": "Four blue snowboards."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four boat", "sentence": "Four canvas boats."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "4 fork", "sentence": "Four silver forks."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four bird", "sentence": "Four yellow birds."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four bear", "sentence": "Four pink bears."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 4}}, "prototype": "four traffic light", "sentence": "Four yellow traffic lights."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five pairs of trousers", "sentence": "Five pairs of floral trousers."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five horse", "sentence": "Five sad horses."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five boy", "sentence": "Five happy boys."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five bicycle", "sentence": "Five purple bicycles."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "5 backpack", "sentence": "five triangular backpacks."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five hair drier", "sentence": "Five pink hair dryers."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five baby", "sentence": "Five excited babies."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five keyboard", "sentence": "Five purple keyboards."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "5 cake", "sentence": "five triangular cakes."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five cup", "sentence": "Five silicone cups."}
+{"meta_data": {"objects": ["toothbrush"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five toothbrush", "sentence": "Five green toothbrushes."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five laptop", "sentence": "Five pink laptops."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five tv", "sentence": "Five black TVs."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five sandwich", "sentence": "Five red sandwiches."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five motorcycle", "sentence": "Five fabric motorcycles."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five suitcase", "sentence": "Five black suitcases."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "5 dress", "sentence": "Five striped dresses."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five pairs of skis", "sentence": "Five pairs of blue skis."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five cell phone", "sentence": "Five purple cell phones."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "5 banana", "sentence": "five black bananas."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five pizza", "sentence": "Five pink pizzas."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five cow", "sentence": "Five red cows."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five potted plant", "sentence": "Five plastic potted plants."}
+{"meta_data": {"objects": ["surfboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five surfboard", "sentence": "Five red surfboards."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five mouse", "sentence": "Five pink mice."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five coat", "sentence": "Five striped coats."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five car", "sentence": "Five purple cars."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five bed", "sentence": "Five blue beds."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five snowboard", "sentence": "Five green snowboards."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five curtain", "sentence": "Five linen curtains."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five airplane", "sentence": "Five white airplanes."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five book", "sentence": "Five blue books."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five spoon", "sentence": "Five bone spoons."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five man", "sentence": "Five afraid men."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five bench", "sentence": "Five round benches."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five fork", "sentence": "Five black forks."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five shirt", "sentence": "Five white shirts."}
+{"meta_data": {"objects": ["refrigerator"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five refrigerator", "sentence": "Five red refrigerators."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five baseball bat", "sentence": "Five purple baseball bats."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five train", "sentence": "Five fabric trains."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five carrot", "sentence": "Five purple carrots."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five giraffe", "sentence": "Five excited giraffes."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five pairs of scissors", "sentence": "Five pairs of black scissors."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five pairs of eye glasses", "sentence": "Five pairs of red eyeglasses."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five kite", "sentence": "Five pink kites."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five bottle", "sentence": "Five diamond-shaped bottles."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five handbag", "sentence": "Five star-shaped handbags."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "5 bird", "sentence": "five afraid birds."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five sports ball", "sentence": "Five green sports balls."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 5}}, "prototype": "five T-shirt", "sentence": "Five pink T-shirts."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six cow", "sentence": "Six blue cows."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six dress", "sentence": "Six yellow dresses."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six backpack", "sentence": "Six heart-shaped backpacks."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six pairs of skis", "sentence": "Six pairs of black skis."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six man", "sentence": "Six calm men."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "6 T-shirt", "sentence": "Six camouflage T-shirts."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six clock", "sentence": "Six red clocks."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six sink", "sentence": "Six white sinks."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six vase", "sentence": "Six purple vases."}
+{"meta_data": {"objects": ["surfboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six surfboard", "sentence": "Six blue surfboards."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six laptop", "sentence": "Six white laptops."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six carpet", "sentence": "Six heart-shaped carpets."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six bench", "sentence": "Six trapezoidal benches."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six horse", "sentence": "Six bored horses."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six car", "sentence": "Six suede cars."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six fire hydrant", "sentence": "Six red fire hydrants."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "6 fork", "sentence": "six yellow forks."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six toilet", "sentence": "Six red toilets."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "6 donut", "sentence": "Six white donuts."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six baseball glove", "sentence": "Six white baseball gloves."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six handbag", "sentence": "Six blue handbags."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six mouse", "sentence": "Six green mice."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six suitcase", "sentence": "Six black suitcases."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six train", "sentence": "Six glass trains."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "6 chair", "sentence": "Six purple chairs."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six pairs of scissors", "sentence": "Six pairs of white scissors."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six zebra", "sentence": "Six green zebras."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six banana", "sentence": "Six black bananas."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six traffic light", "sentence": "Six white traffic lights."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six coat", "sentence": "Six herringbone coats."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "6 sports ball", "sentence": "six white sports balls."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six truck", "sentence": "Six wooden trucks."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six curtain", "sentence": "Six stone curtains."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six street sign", "sentence": "Six oval street signs."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six sandwich", "sentence": "Six green sandwiches."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six frisbee", "sentence": "Six pink frisbees."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six apple", "sentence": "Six white apples."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six oven", "sentence": "Six white ovens."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "6 orange", "sentence": "six black oranges."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six shirt", "sentence": "Six plain shirts."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "6 book", "sentence": "Six red books."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six bicycle", "sentence": "Six black bicycles."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six cake", "sentence": "Six purple cakes."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six cat", "sentence": "Six excited cats."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six umbrella", "sentence": "Six pink umbrellas."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six cell phone", "sentence": "Six black cell phones."}
+{"meta_data": {"objects": ["toothbrush"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six toothbrush", "sentence": "Six black toothbrushes."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six bird", "sentence": "Six yellow birds."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six plate", "sentence": "Six leather plates."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 6}}, "prototype": "six baseball bat", "sentence": "Six white baseball bats."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven vase", "sentence": "Seven red vases."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven umbrella", "sentence": "Seven blue umbrellas."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven cow", "sentence": "Seven green cows."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven truck", "sentence": "Seven wooden trucks."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "7 carpet", "sentence": "seven blue carpets."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven potted plant", "sentence": "Seven concrete potted plants."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven fire hydrant", "sentence": "Seven blue fire hydrants."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven snowboard", "sentence": "Seven white snowboards."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven curtain", "sentence": "Seven silk curtains."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven donut", "sentence": "Seven yellow donuts."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven apple", "sentence": "Seven green apples."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven dress", "sentence": "Seven polka-dotted dresses."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven baseball bat", "sentence": "Seven green baseball bats."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven elephant", "sentence": "Seven sad elephants."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven baby", "sentence": "Seven surprised babies."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "7 oven", "sentence": "seven white ovens."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven toaster", "sentence": "Seven purple toasters."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven kite", "sentence": "Seven heart kites."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven fork", "sentence": "Seven green forks."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven bus", "sentence": "Seven leather buses."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven frisbee", "sentence": "Seven red frisbees."}
+{"meta_data": {"objects": ["toothbrush"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven toothbrush", "sentence": "Seven pink toothbrushes."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven bear", "sentence": "Seven red bears."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven chair", "sentence": "Seven purple chairs."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "7 bed", "sentence": "seven glass beds."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven baseball glove", "sentence": "Seven yellow baseball gloves."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven bird", "sentence": "Seven happy birds."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven traffic light", "sentence": "Seven blue traffic lights."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven backpack", "sentence": "Seven crescentic backpacks."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven pairs of eye glasses", "sentence": "Seven pairs of red eyeglasses."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven mouse", "sentence": "Seven black mice."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven street sign", "sentence": "Seven blue street signs."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "7 girl", "sentence": "seven excited girls."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven keyboard", "sentence": "Seven white keyboards."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven dining table", "sentence": "Seven glass dining tables."}
+{"meta_data": {"objects": ["refrigerator"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven refrigerator", "sentence": "Seven green refrigerators."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven giraffe", "sentence": "Seven sad giraffes."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven shirt", "sentence": "Seven camouflage shirts."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven sheep", "sentence": "Seven yellow sheep."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven bicycle", "sentence": "Seven green bicycles."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven cup", "sentence": "Seven crescentic cups."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven teddy bear", "sentence": "Seven yellow teddy bears."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven sandwich", "sentence": "Seven purple sandwiches."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven couch", "sentence": "Seven wooden couches."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven coat", "sentence": "Seven checked coats."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven pairs of scissors", "sentence": "Seven pairs of blue scissors."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven dog", "sentence": "Seven green dogs."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven hair drier", "sentence": "Seven red hair dryers."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "7 clock", "sentence": "seven yellow clocks."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 7}}, "prototype": "seven pairs of trousers", "sentence": "Seven pairs of blue trousers."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight baseball glove", "sentence": "Eight white baseball gloves."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight dog", "sentence": "Eight excited dogs."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight teddy bear", "sentence": "Eight purple teddy bears."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight traffic light", "sentence": "Eight blue traffic lights."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight bottle", "sentence": "Eight rectangular bottles."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight sports ball", "sentence": "Eight pink sports balls."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight donut", "sentence": "Eight green donuts."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight chair", "sentence": "Eight green chairs."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight T-shirt", "sentence": "Eight camouflage T-shirts."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight vase", "sentence": "Eight purple vases."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight knife", "sentence": "Eight blue knives."}
+{"meta_data": {"objects": ["toothbrush"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight toothbrush", "sentence": "Eight purple toothbrushes."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "8 pairs of trousers", "sentence": "eight pairs of pink trousers."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "8 broccoli", "sentence": "eight pink broccolis."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight kite", "sentence": "Eight oval kites."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight dining table", "sentence": "Eight white dining tables."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight fork", "sentence": "Eight white forks."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight banana", "sentence": "Eight pink bananas."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight man", "sentence": "Eight calm men."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "8 boy", "sentence": "eight excited boys."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight plate", "sentence": "Eight bone plates."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "8 pairs of eye glasses", "sentence": "eight pairs of pink eyeglasses."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight couch", "sentence": "Eight fabric couches."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight car", "sentence": "Eight white cars."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "8 toilet", "sentence": "eight black toilets."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight motorcycle", "sentence": "Eight yellow motorcycles."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight elephant", "sentence": "Eight pink elephants."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight girl", "sentence": "Eight angry girls."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight skateboard", "sentence": "Eight yellow skateboards."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight cake", "sentence": "Eight rectangular cakes."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight cow", "sentence": "Eight blue cows."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight baseball bat", "sentence": "Eight white baseball bats."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "8 truck", "sentence": "eight white trucks."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight sink", "sentence": "Eight yellow sinks."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight cat", "sentence": "Eight excited cats."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight suitcase", "sentence": "Eight black suitcases."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight dress", "sentence": "Eight camouflage dresses."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight pizza", "sentence": "Eight white pizzas."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight bird", "sentence": "Eight white birds."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "8 frisbee", "sentence": "eight red frisbees."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight keyboard", "sentence": "Eight yellow keyboards."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight cup", "sentence": "Eight rectangular cups."}
+{"meta_data": {"objects": ["woman"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "8 woman", "sentence": "eight sad women."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight horse", "sentence": "Eight white horses."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight airplane", "sentence": "Eight wooden airplanes."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight boat", "sentence": "Eight blue boats."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight pairs of scissors", "sentence": "Eight pairs of red scissors."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight toaster", "sentence": "Eight yellow toasters."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "eight orange", "sentence": "Eight yellow oranges."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 8}}, "prototype": "8 umbrella", "sentence": "eight purple umbrellas."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine pairs of trousers", "sentence": "Nine pairs of plain trousers."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 truck", "sentence": "nine yellow trucks."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine car", "sentence": "Nine plastic cars."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine baseball glove", "sentence": "Nine green baseball gloves."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine pizza", "sentence": "Nine yellow pizzas."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine knife", "sentence": "Nine blue knives."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 fork", "sentence": "Nine titanium forks."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine plate", "sentence": "Nine irregular plates."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine hair drier", "sentence": "Nine purple hair dryers."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine sheep", "sentence": "Nine black sheep."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine book", "sentence": "Nine white books."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine backpack", "sentence": "Nine black backpacks."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine hot dog", "sentence": "Nine red hot dogs."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine man", "sentence": "Nine surprised men."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine airplane", "sentence": "Nine glass airplanes."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine giraffe", "sentence": "Nine excited giraffes."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine bowl", "sentence": "Nine bamboo bowls."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine bench", "sentence": "Nine purple benches."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine carrot", "sentence": "Nine pink carrots."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine frisbee", "sentence": "Nine black frisbees."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine T-shirt", "sentence": "Nine floral T-shirts."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine banana", "sentence": "Nine white bananas."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine snowboard", "sentence": "Nine red snowboards."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine cell phone", "sentence": "Nine green cell phones."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine baseball bat", "sentence": "Nine green baseball bats."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 oven", "sentence": "nine red ovens."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine bird", "sentence": "Nine angry birds."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 potted plant", "sentence": "nine wicker potted plants."}
+{"meta_data": {"objects": ["refrigerator"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine refrigerator", "sentence": "Nine blue refrigerators."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine traffic light", "sentence": "Nine yellow traffic lights."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine parking meter", "sentence": "Nine pink parking meters."}
+{"meta_data": {"objects": ["woman"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine woman", "sentence": "Nine surprised women."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 boat", "sentence": "Nine red boats."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine kite", "sentence": "Nine hexagonal kites."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine broccoli", "sentence": "Nine green heads of broccoli."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine suitcase", "sentence": "Nine red suitcases."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine horse", "sentence": "Nine angry horses."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 elephant", "sentence": "nine surprised elephants."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 tv", "sentence": "Nine blue TVs."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 toaster", "sentence": "nine white toasters."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine spoon", "sentence": "Nine glass spoons."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine keyboard", "sentence": "Nine blue keyboards."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine boy", "sentence": "Nine happy boys."}
+{"meta_data": {"objects": ["surfboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine surfboard", "sentence": "Nine yellow surfboards."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 teddy bear", "sentence": "Nine pink teddy bears."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine dog", "sentence": "Nine surprised dogs."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine cup", "sentence": "Nine bamboo cups."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 pairs of eye glasses", "sentence": "Nine pairs of yellow eyeglasses."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "nine cake", "sentence": "Nine blue cakes."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 9}}, "prototype": "9 bottle", "sentence": "nine glass bottles."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten sink", "sentence": "Ten purple sinks."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten pizza", "sentence": "Ten blue pizzas."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten truck", "sentence": "Ten green trucks."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten cell phone", "sentence": "Ten white cell phones."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten bird", "sentence": "Ten sad birds."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten hot dog", "sentence": "Ten purple hot dogs."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten suitcase", "sentence": "Ten red suitcases."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten street sign", "sentence": "Ten square street signs."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten orange", "sentence": "Ten green oranges."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten bed", "sentence": "Ten leather beds."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten bus", "sentence": "Ten pink buses."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten dining table", "sentence": "Ten triangular dining tables."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten microwave", "sentence": "Ten blue microwaves."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 pairs of eye glasses", "sentence": "ten pairs of black eyeglasses."}
+{"meta_data": {"objects": ["toothbrush"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 toothbrush", "sentence": "ten pink toothbrushes."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten curtain", "sentence": "Ten wool curtains."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten cat", "sentence": "Ten pink cats."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten clock", "sentence": "Ten rectangular clocks."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten toaster", "sentence": "Ten yellow toasters."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten fork", "sentence": "Ten brass forks."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 spoon", "sentence": "ten copper spoons."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten dress", "sentence": "Ten yellow dresses."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten tv", "sentence": "Ten yellow TVs."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten sheep", "sentence": "Ten purple sheep."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten couch", "sentence": "Ten wooden couches."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten cow", "sentence": "Ten pink cows."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten airplane", "sentence": "Ten blue airplanes."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten horse", "sentence": "Ten happy horses."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten fire hydrant", "sentence": "Ten black fire hydrants."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 vase", "sentence": "ten black vases."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten bear", "sentence": "Ten excited bears."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 shirt", "sentence": "ten camouflage shirts."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten keyboard", "sentence": "Ten green keyboards."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten elephant", "sentence": "Ten purple elephants."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten backpack", "sentence": "Ten green backpacks."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten pairs of skis", "sentence": "Ten pairs of pink skis."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 umbrella", "sentence": "ten red umbrellas."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten plate", "sentence": "Ten glass plates."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten oven", "sentence": "Ten green ovens."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 man", "sentence": "ten angry men."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten motorcycle", "sentence": "Ten blue motorcycles."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten train", "sentence": "Ten foam trains."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten banana", "sentence": "Ten green bananas."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten knife", "sentence": "Ten black knives."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 teddy bear", "sentence": "ten green teddy bears."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten skateboard", "sentence": "Ten pink skateboards."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten potted plant", "sentence": "Ten terracotta potted plants."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 kite", "sentence": "ten rectangular kites."}
+{"meta_data": {"objects": ["woman"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "10 woman", "sentence": "ten excited women."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 10}}, "prototype": "ten dog", "sentence": "Ten angry dogs."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 truck", "sentence": "eleven metallic trucks."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven couch", "sentence": "Eleven yellow couches."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven motorcycle", "sentence": "Eleven blue motorcycles."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven man", "sentence": "Eleven calm men."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven giraffe", "sentence": "Eleven excited giraffes."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven cat", "sentence": "Eleven green cats."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 kite", "sentence": "eleven blue kites."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 girl", "sentence": "eleven surprised girls."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven skateboard", "sentence": "Eleven purple skateboards."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven sink", "sentence": "Eleven diamond-shaped sinks."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 toilet", "sentence": "eleven acrylic toilets."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven fork", "sentence": "Eleven white forks."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven sandwich", "sentence": "Eleven green sandwiches."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven pairs of trousers", "sentence": "Eleven pairs of paisley trousers."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven traffic light", "sentence": "Eleven pink traffic lights."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven car", "sentence": "Eleven red cars."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven train", "sentence": "Eleven black trains."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven donut", "sentence": "Eleven red donuts."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 cow", "sentence": "eleven purple cows."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven bowl", "sentence": "Eleven heart-shaped bowls."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven boy", "sentence": "Eleven angry boys."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven cell phone", "sentence": "Eleven yellow cell phones."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven airplane", "sentence": "Eleven wooden airplanes."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 pairs of eye glasses", "sentence": "eleven pairs of yellow eyeglasses."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven baseball bat", "sentence": "Eleven yellow baseball bats."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven pairs of scissors", "sentence": "Eleven pairs of white scissors."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven dress", "sentence": "Eleven camouflage dresses."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 book", "sentence": "eleven blue books."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 baseball glove", "sentence": "eleven red baseball gloves."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven remote", "sentence": "Eleven blue remotes."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven vase", "sentence": "Eleven black vases."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 cup", "sentence": "eleven porcelain cups."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven handbag", "sentence": "Eleven red handbags."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven zebra", "sentence": "Eleven happy zebras."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven laptop", "sentence": "Eleven white laptops."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven bottle", "sentence": "Eleven plastic bottles."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven cake", "sentence": "Eleven octagonal cakes."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven snowboard", "sentence": "Eleven pink snowboards."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 mouse", "sentence": "eleven yellow mice."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven bear", "sentence": "Eleven surprised bears."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven toaster", "sentence": "Eleven green toasters."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven oven", "sentence": "Eleven yellow ovens."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 carrot", "sentence": "eleven blue carrots."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven umbrella", "sentence": "Eleven blue umbrellas."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 bench", "sentence": "eleven triangular benches."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven spoon", "sentence": "Eleven ivory spoons."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "11 curtain", "sentence": "eleven yellow curtains."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven bird", "sentence": "Eleven sad birds."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven keyboard", "sentence": "Eleven green keyboards."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 11}}, "prototype": "eleven orange", "sentence": "Eleven green oranges."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve cat", "sentence": "Twelve yellow cats."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve donut", "sentence": "Twelve yellow donuts."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve tennis racket", "sentence": "Twelve blue tennis rackets."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 baseball glove", "sentence": "twelve blue baseball gloves."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve laptop", "sentence": "Twelve pink laptops."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve boy", "sentence": "Twelve surprised boys."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve car", "sentence": "Twelve red cars."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve microwave", "sentence": "Twelve pink microwaves."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve apple", "sentence": "Twelve blue apples."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve tv", "sentence": "Twelve red TVs."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve baseball bat", "sentence": "Twelve pink baseball bats."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 horse", "sentence": "twelve green horses."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 carpet", "sentence": "twelve glass carpets."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve book", "sentence": "Twelve blue books."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve handbag", "sentence": "Twelve square handbags."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve dog", "sentence": "Twelve excited dogs."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve mouse", "sentence": "Twelve red mice."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve boat", "sentence": "Twelve aluminum boats."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 pairs of trousers", "sentence": "twelve pairs of floral trousers."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve suitcase", "sentence": "Twelve pink suitcases."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve teddy bear", "sentence": "Twelve yellow teddy bears."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 keyboard", "sentence": "twelve green keyboards."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve bus", "sentence": "Twelve black buses."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 skateboard", "sentence": "twelve yellow skateboards."}
+{"meta_data": {"objects": ["toothbrush"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 toothbrush", "sentence": "twelve black toothbrushes."}
+{"meta_data": {"objects": ["woman"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 woman", "sentence": "twelve afraid women."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve dining table", "sentence": "Twelve plaid dining tables."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve vase", "sentence": "Twelve white vases."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve toilet", "sentence": "Twelve black toilets."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve pairs of scissors", "sentence": "Twelve pairs of pink scissors."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve pizza", "sentence": "Twelve red pizzas."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve kite", "sentence": "Twelve square kites."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 toaster", "sentence": "twelve pink toasters."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve sports ball", "sentence": "Twelve yellow sports balls."}
+{"meta_data": {"objects": ["refrigerator"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve refrigerator", "sentence": "Twelve green refrigerators."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve motorcycle", "sentence": "Twelve stone motorcycles."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve potted plant", "sentence": "Twelve green potted plants."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve clock", "sentence": "Twelve blue clocks."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve cup", "sentence": "Twelve octagonal cups."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 cake", "sentence": "twelve octagonal cakes."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve knife", "sentence": "Twelve green knives."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 cow", "sentence": "twelve yellow cows."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve bed", "sentence": "Twelve pink beds."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve sheep", "sentence": "Twelve calm sheep."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 truck", "sentence": "twelve blue trucks."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve frisbee", "sentence": "Twelve blue frisbees."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve traffic light", "sentence": "Twelve blue traffic lights."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve chair", "sentence": "Twelve bamboo chairs."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "12 airplane", "sentence": "twelve wooden airplanes."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "object_counting", "objects number": 1, "sum numeracy": 12}}, "prototype": "twelve remote", "sentence": "Twelve green remotes."}

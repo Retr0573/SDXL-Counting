@@ -1,0 +1,100 @@
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A paisley carpet.", "sentence": "A paisley carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A floral carpet.", "sentence": "A floral carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plaid carpet.", "sentence": "A plaid carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A checked carpet.", "sentence": "A checked carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A herringbone carpet.", "sentence": "A herringbone carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A camouflage carpet.", "sentence": "A camouflage carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A geometric carpet.", "sentence": "A geometric carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plain carpet.", "sentence": "A plain carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A polka-dotted carpet.", "sentence": "A polka-dotted carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A striped carpet.", "sentence": "A striped carpet."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A floral dining table.", "sentence": "A floral dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A geometric dining table.", "sentence": "A geometric dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plain dining table.", "sentence": "A plain dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A paisley dining table.", "sentence": "A paisley dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A polka-dotted dining table.", "sentence": "A polka-dotted dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A herringbone dining table.", "sentence": "A herringbone dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A striped dining table.", "sentence": "A striped dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A checked dining table.", "sentence": "A checked dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A camouflage dining table.", "sentence": "A camouflage dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plaid dining table.", "sentence": "A plaid dining table."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A polka-dotted T-shirt.", "sentence": "A polka-dotted T-shirt."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plain T-shirt.", "sentence": "A plain T-shirt."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A camouflage T-shirt.", "sentence": "A camouflage T-shirt."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A paisley T-shirt.", "sentence": "A paisley T-shirt."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A floral T-shirt.", "sentence": "A floral T-shirt."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A striped T-shirt.", "sentence": "A striped T-shirt."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A herringbone T-shirt.", "sentence": "A herringbone T-shirt."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plaid T-shirt.", "sentence": "A plaid T-shirt."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A checked T-shirt.", "sentence": "A checked T-shirt."}
+{"meta_data": {"objects": ["T-shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A geometric T-shirt.", "sentence": "A geometric T-shirt."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plaid bed.", "sentence": "A plaid bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A striped bed.", "sentence": "A striped bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A floral bed.", "sentence": "A floral bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A polka-dotted bed.", "sentence": "A polka-dotted bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A camouflage bed.", "sentence": "A camouflage bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A checked bed.", "sentence": "A checked bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plain bed.", "sentence": "A plain bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A paisley bed.", "sentence": "A paisley bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A geometric bed.", "sentence": "A geometric bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A herringbone bed.", "sentence": "A herringbone bed."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of polka-dotted trousers.", "sentence": "A pair of polka-dotted trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of geometric trousers.", "sentence": "A pair of geometric trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of paisley trousers.", "sentence": "A pair of paisley trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of plain trousers.", "sentence": "A pair of plain trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of checked trousers.", "sentence": "A pair of checked trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of striped trousers.", "sentence": "A pair of striped trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of plaid trousers.", "sentence": "A pair of plaid trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of floral trousers.", "sentence": "A pair of floral trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of camouflage trousers.", "sentence": "A pair of camouflage trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A pair of herringbone trousers.", "sentence": "A pair of herringbone trousers."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plain coat.", "sentence": "A plain coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A floral coat.", "sentence": "A floral coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A camouflage coat.", "sentence": "A camouflage coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A checked coat.", "sentence": "A checked coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plaid coat.", "sentence": "A plaid coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A herringbone coat.", "sentence": "A herringbone coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A polka-dotted coat.", "sentence": "A polka-dotted coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A paisley coat.", "sentence": "A paisley coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A geometric coat.", "sentence": "A geometric coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A striped coat.", "sentence": "A striped coat."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A geometric curtain.", "sentence": "A geometric curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plain curtain.", "sentence": "A plain curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A striped curtain.", "sentence": "A striped curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A paisley curtain.", "sentence": "A paisley curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A checked curtain.", "sentence": "A checked curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A polka-dotted curtain.", "sentence": "A polka-dotted curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A floral curtain.", "sentence": "A floral curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A herringbone curtain.", "sentence": "A herringbone curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plaid curtain.", "sentence": "A plaid curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A camouflage curtain.", "sentence": "A camouflage curtain."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A paisley dress.", "sentence": "A paisley dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A floral dress.", "sentence": "A floral dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plain dress.", "sentence": "A plain dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plaid dress.", "sentence": "A plaid dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A geometric dress.", "sentence": "A geometric dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A camouflage dress.", "sentence": "A camouflage dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A herringbone dress.", "sentence": "A herringbone dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A polka-dotted dress.", "sentence": "A polka-dotted dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A striped dress.", "sentence": "A striped dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A checked dress.", "sentence": "A checked dress."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A striped shirt.", "sentence": "A striped shirt."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A geometric shirt.", "sentence": "A geometric shirt."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A floral shirt.", "sentence": "A floral shirt."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A camouflage shirt.", "sentence": "A camouflage shirt."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plaid shirt.", "sentence": "A plaid shirt."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A polka-dotted shirt.", "sentence": "A polka-dotted shirt."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A paisley shirt.", "sentence": "A paisley shirt."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plain shirt.", "sentence": "A plain shirt."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A checked shirt.", "sentence": "A checked shirt."}
+{"meta_data": {"objects": ["shirt"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A herringbone shirt.", "sentence": "A herringbone shirt."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A striped chair.", "sentence": "A striped chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A camouflage chair.", "sentence": "A camouflage chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A paisley chair.", "sentence": "A paisley chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A floral chair.", "sentence": "A floral chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A geometric chair.", "sentence": "A geometric chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A checked chair.", "sentence": "A checked chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plaid chair.", "sentence": "A plaid chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A plain chair.", "sentence": "A plain chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A herringbone chair.", "sentence": "A herringbone chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_pattern", "objects number": 1}}, "prototype": "A polka-dotted chair.", "sentence": "A polka-dotted chair."}

@@ -1,0 +1,150 @@
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular handbag.", "sentence": "A triangular handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A star-shaped handbag.", "sentence": "A star-shaped handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular handbag.", "sentence": "A rectangular handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round handbag.", "sentence": "A round handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic handbag.", "sentence": "A crescentic handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal handbag.", "sentence": "A hexagonal handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval handbag.", "sentence": "An oval handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond handbag.", "sentence": "A diamond handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square handbag.", "sentence": "A square handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart-shaped handbag.", "sentence": "A heart-shaped handbag."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal clock.", "sentence": "A hexagonal clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart-shaped clock.", "sentence": "A heart-shaped clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond-shaped clock.", "sentence": "A diamond-shaped clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular clock.", "sentence": "A triangular clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An octagonal clock.", "sentence": "An octagonal clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round clock.", "sentence": "A round clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square clock.", "sentence": "A square clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular clock.", "sentence": "A rectangular clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic clock.", "sentence": "A crescentic clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A star-shaped clock.", "sentence": "A star-shaped clock."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular bench.", "sentence": "A triangular bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square bench.", "sentence": "A square bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An elliptical bench.", "sentence": "An elliptical bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic bench.", "sentence": "A crescentic bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A circular bench.", "sentence": "A circular bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round bench.", "sentence": "A round bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval bench.", "sentence": "An oval bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular bench.", "sentence": "A rectangular bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A trapezoidal bench.", "sentence": "A trapezoidal bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal bench.", "sentence": "A hexagonal bench."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic bottle.", "sentence": "A crescentic bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A cylindrical bottle.", "sentence": "A cylindrical bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval bottle.", "sentence": "An oval bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A star-shaped bottle.", "sentence": "A star-shaped bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal bottle.", "sentence": "A hexagonal bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart-shaped bottle.", "sentence": "A heart-shaped bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A pentagonal bottle.", "sentence": "A pentagonal bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular bottle.", "sentence": "A rectangular bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond-shaped bottle.", "sentence": "A diamond-shaped bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square bottle.", "sentence": "A square bottle."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An octagonal bowl.", "sentence": "An octagonal bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular bowl.", "sentence": "A rectangular bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A star-shaped bowl.", "sentence": "A star-shaped bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart-shaped bowl.", "sentence": "A heart-shaped bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular bowl.", "sentence": "A triangular bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An asymmetrical bowl.", "sentence": "An asymmetrical bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval bowl.", "sentence": "An oval bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round bowl.", "sentence": "A round bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal bowl.", "sentence": "A hexagonal bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square bowl.", "sentence": "A square bowl."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A conical cup.", "sentence": "A conical cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A pentagonal cup.", "sentence": "A pentagonal cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An elliptical cup.", "sentence": "An elliptical cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A cylindrical cup.", "sentence": "A cylindrical cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square cup.", "sentence": "A square cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular cup.", "sentence": "A rectangular cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An irregular cup.", "sentence": "An irregular cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An octagonal cup.", "sentence": "An octagonal cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A teardrop-shaped cup.", "sentence": "A teardrop-shaped cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic cup.", "sentence": "A crescentic cup."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular plate.", "sentence": "A triangular plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round plate.", "sentence": "A round plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval plate.", "sentence": "An oval plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A star-shaped plate.", "sentence": "A star-shaped plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular plate.", "sentence": "A rectangular plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond plate.", "sentence": "A diamond plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart-shaped plate.", "sentence": "A heart-shaped plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic plate.", "sentence": "A crescentic plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An irregular plate.", "sentence": "An irregular plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal plate.", "sentence": "A hexagonal plate."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal dining table.", "sentence": "A hexagonal dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic dining table.", "sentence": "A crescentic dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square dining table.", "sentence": "A square dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An octagonal dining table.", "sentence": "An octagonal dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A serpentine dining table.", "sentence": "A serpentine dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round dining table.", "sentence": "A round dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval dining table.", "sentence": "An oval dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular dining table.", "sentence": "A rectangular dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A barrel-shaped dining table.", "sentence": "A barrel-shaped dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular dining table.", "sentence": "A triangular dining table."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An irregular sink.", "sentence": "An irregular sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic sink.", "sentence": "A crescentic sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round sink.", "sentence": "A round sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal sink.", "sentence": "A hexagonal sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A circular sink.", "sentence": "A circular sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular sink.", "sentence": "A rectangular sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular sink.", "sentence": "A triangular sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval sink.", "sentence": "An oval sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square sink.", "sentence": "A square sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond-shaped sink.", "sentence": "A diamond-shaped sink."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic backpack.", "sentence": "A crescentic backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal backpack.", "sentence": "A hexagonal backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round backpack.", "sentence": "A round backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart-shaped backpack.", "sentence": "A heart-shaped backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond backpack.", "sentence": "A diamond backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval backpack.", "sentence": "An oval backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular backpack.", "sentence": "A rectangular backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular backpack.", "sentence": "A triangular backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A star-shaped backpack.", "sentence": "A star-shaped backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square backpack.", "sentence": "A square backpack."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval carpet.", "sentence": "An oval carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic carpet.", "sentence": "A crescentic carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond carpet.", "sentence": "A diamond carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An octagonal carpet.", "sentence": "An octagonal carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart-shaped carpet.", "sentence": "A heart-shaped carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round carpet.", "sentence": "A round carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An irregular carpet.", "sentence": "An irregular carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular carpet.", "sentence": "A triangular carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square carpet.", "sentence": "A square carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A star-shaped carpet.", "sentence": "A star-shaped carpet."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A trapezoidal bed.", "sentence": "A trapezoidal bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval bed.", "sentence": "An oval bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond-shaped bed.", "sentence": "A diamond-shaped bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart-shaped bed.", "sentence": "A heart-shaped bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular bed.", "sentence": "A rectangular bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An octagonal bed.", "sentence": "An octagonal bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round bed.", "sentence": "A round bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square bed.", "sentence": "A square bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal bed.", "sentence": "A hexagonal bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic bed.", "sentence": "A crescentic bed."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond kite.", "sentence": "A diamond kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular kite.", "sentence": "A triangular kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round kite.", "sentence": "A round kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal kite.", "sentence": "A hexagonal kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square kite.", "sentence": "A square kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart kite.", "sentence": "A heart kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval kite.", "sentence": "An oval kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A star kite.", "sentence": "A star kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular kite.", "sentence": "A rectangular kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic kite.", "sentence": "A crescentic kite."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic street sign.", "sentence": "A crescentic street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval street sign.", "sentence": "An oval street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A star-shaped street sign.", "sentence": "A star-shaped street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal street sign.", "sentence": "A hexagonal street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular street sign.", "sentence": "A triangular street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond-shaped street sign.", "sentence": "A diamond-shaped street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An elliptical street sign.", "sentence": "An elliptical street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round street sign.", "sentence": "A round street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An octagonal street sign.", "sentence": "An octagonal street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square street sign.", "sentence": "A square street sign."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A rectangular cake.", "sentence": "A rectangular cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A hexagonal cake.", "sentence": "A hexagonal cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An octagonal cake.", "sentence": "An octagonal cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "An oval cake.", "sentence": "An oval cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A triangular cake.", "sentence": "A triangular cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A diamond-shaped cake.", "sentence": "A diamond-shaped cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A square cake.", "sentence": "A square cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A heart-shaped cake.", "sentence": "A heart-shaped cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A round cake.", "sentence": "A round cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_shape", "objects number": 1}}, "prototype": "A crescentic cake.", "sentence": "A crescentic cake."}

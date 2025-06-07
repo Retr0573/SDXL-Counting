@@ -1,0 +1,100 @@
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited baby", "sentence": "A baby appearing excited."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored baby", "sentence": "A baby appearing bored."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry baby", "sentence": "A baby looking angry."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised baby", "sentence": "A baby looking surprised."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid baby", "sentence": "A baby appearing afraid."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm baby", "sentence": "A baby is calm."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad baby", "sentence": "A baby looking sad."}
+{"meta_data": {"objects": ["baby"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy baby", "sentence": "A baby who looks happy."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm zebra", "sentence": "A zebra appearing calm."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry zebra", "sentence": "A zebra appearing angry."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad zebra", "sentence": "A zebra looking sad."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid zebra", "sentence": "A zebra appearing afraid."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored zebra", "sentence": "A zebra looking bored."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited zebra", "sentence": "A zebra looking excited."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised zebra", "sentence": "A zebra looking surprised."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy zebra", "sentence": "A zebra that looks happy."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry elephant", "sentence": "An elephant is angry."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised elephant", "sentence": "An elephant appearing surprised."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad elephant", "sentence": "An elephant looking sad."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy elephant", "sentence": "An elephant is happy."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm elephant", "sentence": "An elephant looking calm."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored elephant", "sentence": "An elephant appearing bored."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid elephant", "sentence": "An elephant appearing afraid."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited elephant", "sentence": "An elephant appearing excited."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry man", "sentence": "A man expressing anger."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised man", "sentence": "A man with a surprised expression."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored man", "sentence": "A man appearing bored."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid man", "sentence": "A man appearing afraid."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited man", "sentence": "A man feeling excited."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy man", "sentence": "A man is happy."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm man", "sentence": "A man is calm."}
+{"meta_data": {"objects": ["man"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad man", "sentence": "A man appearing sad."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored giraffe", "sentence": "A giraffe appearing bored."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited giraffe", "sentence": "A giraffe that looks excited."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised giraffe", "sentence": "A giraffe looking surprised."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm giraffe", "sentence": "The giraffe appears calm."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy giraffe", "sentence": "A giraffe looking happy."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid giraffe", "sentence": "A giraffe appearing afraid."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry giraffe", "sentence": "A giraffe that appears angry."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad giraffe", "sentence": "A giraffe that looks sad."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited boy", "sentence": "A boy looking excited."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy boy", "sentence": "A boy who is happy."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised boy", "sentence": "A boy looking surprised."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad boy", "sentence": "A boy appearing sad."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm boy", "sentence": "A boy who is calm."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid boy", "sentence": "A boy appearing afraid."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry boy", "sentence": "A boy displaying anger."}
+{"meta_data": {"objects": ["boy"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored boy", "sentence": "A boy appearing bored."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored sheep", "sentence": "A sheep appearing bored."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad sheep", "sentence": "A sheep that appears sad."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm sheep", "sentence": "A sheep appearing calm."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry sheep", "sentence": "A sheep appearing angry."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy sheep", "sentence": "A sheep appearing happy."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited sheep", "sentence": "A sheep looks excited."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid sheep", "sentence": "A sheep appearing afraid."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised sheep", "sentence": "A sheep with a look of surprise."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited bird", "sentence": "A bird looking excited."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid bird", "sentence": "A bird appearing afraid."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad bird", "sentence": "A bird appearing sad."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry bird", "sentence": "A bird displaying anger."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm bird", "sentence": "A bird that appears calm."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored bird", "sentence": "A bird appearing bored."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised bird", "sentence": "A bird looking surprised."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy bird", "sentence": "A bird expressing happiness."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry horse", "sentence": "A horse looking angry."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy horse", "sentence": "A horse that looks happy."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid horse", "sentence": "A horse that appears afraid."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad horse", "sentence": "A horse that appears sad."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm horse", "sentence": "A horse appearing calm."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised horse", "sentence": "A horse appearing surprised."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored horse", "sentence": "A horse looking bored."}
+{"meta_data": {"objects": ["horse"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited horse", "sentence": "A horse appearing excited."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm cat", "sentence": "A cat that is calm."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored cat", "sentence": "A cat appearing bored."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid cat", "sentence": "A cat looking afraid."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited cat", "sentence": "A cat looking excited."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad cat", "sentence": "A cat is sad."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry cat", "sentence": "A cat looking angry."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy cat", "sentence": "A cat appears happy."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised cat", "sentence": "A cat looking surprised."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm bear", "sentence": "A bear that appears calm."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored bear", "sentence": "A bear appearing bored."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy bear", "sentence": "A bear looking happy."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry bear", "sentence": "A bear appearing angry."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised bear", "sentence": "A bear looking surprised."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad bear", "sentence": "A bear appearing sad."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited bear", "sentence": "A bear appearing excited."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid bear", "sentence": "A bear appearing afraid."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a surprised girl", "sentence": "A girl appears surprised."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored girl", "sentence": "A girl looking bored."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry girl", "sentence": "A girl appearing angry."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a excited girl", "sentence": "A girl who is feeling excited."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy girl", "sentence": "A girl looking happy."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad girl", "sentence": "A girl appearing sad."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a calm girl", "sentence": "A girl appearing calm."}
+{"meta_data": {"objects": ["girl"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a afraid girl", "sentence": "A girl feeling afraid."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a happy dog", "sentence": "A dog appearing happy."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a angry dog", "sentence": "A dog is angry."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a sad dog", "sentence": "a dog looking sad."}
+{"meta_data": {"objects": ["dog"], "tags": {"aspect": "attribute_binding_sentiment", "objects number": 1}}, "prototype": "a bored dog", "sentence": "A dog appearing bored."}

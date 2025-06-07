@@ -1,0 +1,600 @@
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red apple.", "sentence": "A red apple."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue apple.", "sentence": "A blue apple."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow apple.", "sentence": "A yellow apple."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink apple.", "sentence": "A pink apple."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple apple.", "sentence": "A purple apple."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green apple.", "sentence": "A green apple."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black apple.", "sentence": "A black apple."}
+{"meta_data": {"objects": ["apple"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white apple.", "sentence": "A white apple."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue coat.", "sentence": "A blue coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow coat.", "sentence": "A yellow coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink coat.", "sentence": "A pink coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white coat.", "sentence": "A white coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red coat.", "sentence": "A red coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black coat.", "sentence": "A black coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple coat.", "sentence": "A purple coat."}
+{"meta_data": {"objects": ["coat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green coat.", "sentence": "A green coat."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue spoon.", "sentence": "A blue spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow spoon.", "sentence": "A yellow spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink spoon.", "sentence": "A pink spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white spoon.", "sentence": "A white spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red spoon.", "sentence": "A red spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple spoon.", "sentence": "A purple spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black spoon.", "sentence": "A black spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green spoon.", "sentence": "A green spoon."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue bus.", "sentence": "A blue bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green bus.", "sentence": "A green bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black bus.", "sentence": "A black bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink bus.", "sentence": "A pink bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow bus.", "sentence": "A yellow bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red bus.", "sentence": "A red bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white bus.", "sentence": "A white bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple bus.", "sentence": "A purple bus."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black donut.", "sentence": "A black donut."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink donut.", "sentence": "A pink donut."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple donut.", "sentence": "A purple donut."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue donut.", "sentence": "A blue donut."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow donut.", "sentence": "A yellow donut."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red donut.", "sentence": "A red donut."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white donut.", "sentence": "A white donut."}
+{"meta_data": {"objects": ["donut"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green donut.", "sentence": "A green donut."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple carrot.", "sentence": "A purple carrot."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red carrot.", "sentence": "A red carrot."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green carrot.", "sentence": "A green carrot."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white carrot.", "sentence": "A white carrot."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow carrot.", "sentence": "A yellow carrot."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink carrot.", "sentence": "A pink carrot."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black carrot.", "sentence": "A black carrot."}
+{"meta_data": {"objects": ["carrot"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue carrot.", "sentence": "A blue carrot."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue orange.", "sentence": "A blue orange."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple orange.", "sentence": "A purple orange."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink orange.", "sentence": "A pink orange."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow orange.", "sentence": "A yellow orange."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green orange.", "sentence": "A green orange."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red orange.", "sentence": "A red orange."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black orange.", "sentence": "A black orange."}
+{"meta_data": {"objects": ["orange"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white orange.", "sentence": "A white orange."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green airplane.", "sentence": "A green airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow airplane.", "sentence": "A yellow airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red airplane.", "sentence": "A red airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink airplane.", "sentence": "A pink airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple airplane.", "sentence": "A purple airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue airplane.", "sentence": "A blue airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white airplane.", "sentence": "A white airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black airplane.", "sentence": "A black airplane."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink sports ball.", "sentence": "A pink sports ball."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white sports ball.", "sentence": "A white sports ball."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple sports ball.", "sentence": "A purple sports ball."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red sports ball.", "sentence": "A red sports ball."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue sports ball.", "sentence": "A blue sports ball."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow sports ball.", "sentence": "A yellow sports ball."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black sports ball.", "sentence": "A black sports ball."}
+{"meta_data": {"objects": ["sports ball"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green sports ball.", "sentence": "A green sports ball."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple baseball bat.", "sentence": "A purple baseball bat."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white baseball bat.", "sentence": "A white baseball bat."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black baseball bat.", "sentence": "A black baseball bat."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green baseball bat.", "sentence": "A green baseball bat."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow baseball bat.", "sentence": "A yellow baseball bat."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red baseball bat.", "sentence": "A red baseball bat."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink baseball bat.", "sentence": "A pink baseball bat."}
+{"meta_data": {"objects": ["baseball bat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue baseball bat.", "sentence": "A blue baseball bat."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black street sign.", "sentence": "A black street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple street sign.", "sentence": "A purple street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow street sign.", "sentence": "A yellow street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue street sign.", "sentence": "A blue street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green street sign.", "sentence": "A green street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white street sign.", "sentence": "A white street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink street sign.", "sentence": "A pink street sign."}
+{"meta_data": {"objects": ["street sign"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red street sign.", "sentence": "A red street sign."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple snowboard.", "sentence": "A purple snowboard."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue snowboard.", "sentence": "A blue snowboard."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow snowboard.", "sentence": "A yellow snowboard."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white snowboard.", "sentence": "A white snowboard."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black snowboard.", "sentence": "A black snowboard."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green snowboard.", "sentence": "A green snowboard."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red snowboard.", "sentence": "A red snowboard."}
+{"meta_data": {"objects": ["snowboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink snowboard.", "sentence": "A pink snowboard."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black bicycle.", "sentence": "A black bicycle."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink bicycle.", "sentence": "A pink bicycle."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white bicycle.", "sentence": "A white bicycle."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red bicycle.", "sentence": "A red bicycle."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green bicycle.", "sentence": "A green bicycle."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple bicycle.", "sentence": "A purple bicycle."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow bicycle.", "sentence": "A yellow bicycle."}
+{"meta_data": {"objects": ["bicycle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue bicycle.", "sentence": "A blue bicycle."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue knife.", "sentence": "A blue knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink knife.", "sentence": "A pink knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green knife.", "sentence": "A green knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red knife.", "sentence": "A red knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black knife.", "sentence": "A black knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white knife.", "sentence": "A white knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow knife.", "sentence": "A yellow knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple knife.", "sentence": "A purple knife."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink pizza.", "sentence": "A pink pizza."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red pizza.", "sentence": "A red pizza."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black pizza.", "sentence": "A black pizza."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue pizza.", "sentence": "A blue pizza."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow pizza.", "sentence": "A yellow pizza."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple pizza.", "sentence": "A purple pizza."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white pizza.", "sentence": "A white pizza."}
+{"meta_data": {"objects": ["pizza"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green pizza.", "sentence": "A green pizza."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue backpack.", "sentence": "A blue backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white backpack.", "sentence": "A white backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green backpack.", "sentence": "A green backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink backpack.", "sentence": "A pink backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red backpack.", "sentence": "A red backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black backpack.", "sentence": "A black backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow backpack.", "sentence": "A yellow backpack."}
+{"meta_data": {"objects": ["backpack"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple backpack.", "sentence": "A purple backpack."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue keyboard.", "sentence": "A blue keyboard."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow keyboard.", "sentence": "A yellow keyboard."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white keyboard.", "sentence": "A white keyboard."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green keyboard.", "sentence": "A green keyboard."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple keyboard.", "sentence": "A purple keyboard."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black keyboard.", "sentence": "A black keyboard."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink keyboard.", "sentence": "A pink keyboard."}
+{"meta_data": {"objects": ["keyboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red keyboard.", "sentence": "A red keyboard."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white hot dog.", "sentence": "A white hot dog."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green hot dog.", "sentence": "A green hot dog."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink hot dog.", "sentence": "A pink hot dog."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red hot dog.", "sentence": "A red hot dog."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue hot dog.", "sentence": "A blue hot dog."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black hot dog.", "sentence": "A black hot dog."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow hot dog.", "sentence": "A yellow hot dog."}
+{"meta_data": {"objects": ["hot dog"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple hot dog.", "sentence": "A purple hot dog."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green remote.", "sentence": "A green remote."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow remote.", "sentence": "A yellow remote."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red remote.", "sentence": "A red remote."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white remote.", "sentence": "A white remote."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black remote.", "sentence": "A black remote."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink remote.", "sentence": "A pink remote."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple remote.", "sentence": "A purple remote."}
+{"meta_data": {"objects": ["remote"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue remote.", "sentence": "A blue remote."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green elephant.", "sentence": "A green elephant."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple elephant.", "sentence": "A purple elephant."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink elephant.", "sentence": "A pink elephant."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black elephant.", "sentence": "A black elephant."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red elephant.", "sentence": "A red elephant."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow elephant.", "sentence": "A yellow elephant."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue elephant.", "sentence": "A blue elephant."}
+{"meta_data": {"objects": ["elephant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white elephant.", "sentence": "A white elephant."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red vase.", "sentence": "A red vase."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink vase.", "sentence": "A pink vase."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow vase.", "sentence": "A yellow vase."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple vase.", "sentence": "A purple vase."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white vase.", "sentence": "A white vase."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black vase.", "sentence": "A black vase."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green vase.", "sentence": "A green vase."}
+{"meta_data": {"objects": ["vase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue vase.", "sentence": "A blue vase."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white cow.", "sentence": "A white cow."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink cow.", "sentence": "A pink cow."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black cow.", "sentence": "A black cow."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red cow.", "sentence": "A red cow."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow cow.", "sentence": "A yellow cow."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue cow.", "sentence": "A blue cow."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green cow.", "sentence": "A green cow."}
+{"meta_data": {"objects": ["cow"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple cow.", "sentence": "A purple cow."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow teddy bear.", "sentence": "A yellow teddy bear."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white teddy bear.", "sentence": "A white teddy bear."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black teddy bear.", "sentence": "A black teddy bear."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green teddy bear.", "sentence": "A green teddy bear."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink teddy bear.", "sentence": "A pink teddy bear."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red teddy bear.", "sentence": "A red teddy bear."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple teddy bear.", "sentence": "A purple teddy bear."}
+{"meta_data": {"objects": ["teddy bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue teddy bear.", "sentence": "A blue teddy bear."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green bear.", "sentence": "A green bear."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow bear.", "sentence": "A yellow bear."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white bear.", "sentence": "A white bear."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black bear.", "sentence": "A black bear."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple bear.", "sentence": "A purple bear."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink bear.", "sentence": "A pink bear."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue bear.", "sentence": "A blue bear."}
+{"meta_data": {"objects": ["bear"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red bear.", "sentence": "A red bear."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple parking meter.", "sentence": "A purple parking meter."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white parking meter.", "sentence": "A white parking meter."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red parking meter.", "sentence": "A red parking meter."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black parking meter.", "sentence": "A black parking meter."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow parking meter.", "sentence": "A yellow parking meter."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green parking meter.", "sentence": "A green parking meter."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink parking meter.", "sentence": "A pink parking meter."}
+{"meta_data": {"objects": ["parking meter"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue parking meter.", "sentence": "A blue parking meter."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of white skis.", "sentence": "A pair of white skis."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of black skis.", "sentence": "A pair of black skis."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of green skis.", "sentence": "A pair of green skis."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of pink skis.", "sentence": "A pair of pink skis."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of blue skis.", "sentence": "A pair of blue skis."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of red skis.", "sentence": "A pair of red skis."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of purple skis.", "sentence": "A pair of purple skis."}
+{"meta_data": {"objects": ["skis"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of yellow skis.", "sentence": "A pair of yellow skis."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red book.", "sentence": "A red book."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green book.", "sentence": "A green book."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink book.", "sentence": "A pink book."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black book.", "sentence": "A black book."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple book.", "sentence": "A purple book."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue book.", "sentence": "A blue book."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white book.", "sentence": "A white book."}
+{"meta_data": {"objects": ["book"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow book.", "sentence": "A yellow book."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green truck.", "sentence": "A green truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white truck.", "sentence": "A white truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink truck.", "sentence": "A pink truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow truck.", "sentence": "A yellow truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black truck.", "sentence": "A black truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red truck.", "sentence": "A red truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue truck.", "sentence": "A blue truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple truck.", "sentence": "A purple truck."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow bottle.", "sentence": "A yellow bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink bottle.", "sentence": "A pink bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red bottle.", "sentence": "A red bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black bottle.", "sentence": "A black bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple bottle.", "sentence": "A purple bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue bottle.", "sentence": "A blue bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green bottle.", "sentence": "A green bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white bottle.", "sentence": "A white bottle."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black broccoli.", "sentence": "A black broccoli."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green broccoli.", "sentence": "A green broccoli."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple broccoli.", "sentence": "A purple broccoli."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink broccoli.", "sentence": "A pink broccoli."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red broccoli.", "sentence": "A red broccoli."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white broccoli.", "sentence": "A white broccoli."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue broccoli.", "sentence": "A blue broccoli."}
+{"meta_data": {"objects": ["broccoli"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow broccoli.", "sentence": "A yellow broccoli."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white sink.", "sentence": "A white sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue sink.", "sentence": "A blue sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black sink.", "sentence": "A black sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple sink.", "sentence": "A purple sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink sink.", "sentence": "A pink sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red sink.", "sentence": "A red sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green sink.", "sentence": "A green sink."}
+{"meta_data": {"objects": ["sink"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow sink.", "sentence": "A yellow sink."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue umbrella.", "sentence": "A blue umbrella."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white umbrella.", "sentence": "A white umbrella."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black umbrella.", "sentence": "A black umbrella."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple umbrella.", "sentence": "A purple umbrella."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red umbrella.", "sentence": "A red umbrella."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink umbrella.", "sentence": "A pink umbrella."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green umbrella.", "sentence": "A green umbrella."}
+{"meta_data": {"objects": ["umbrella"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow umbrella.", "sentence": "A yellow umbrella."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple cell phone.", "sentence": "A purple cell phone."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black cell phone.", "sentence": "A black cell phone."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green cell phone.", "sentence": "A green cell phone."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white cell phone.", "sentence": "A white cell phone."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red cell phone.", "sentence": "A red cell phone."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow cell phone.", "sentence": "A yellow cell phone."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink cell phone.", "sentence": "A pink cell phone."}
+{"meta_data": {"objects": ["cell phone"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue cell phone.", "sentence": "A blue cell phone."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple curtain.", "sentence": "A purple curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink curtain.", "sentence": "A pink curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green curtain.", "sentence": "A green curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red curtain.", "sentence": "A red curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black curtain.", "sentence": "A black curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white curtain.", "sentence": "A white curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue curtain.", "sentence": "A blue curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow curtain.", "sentence": "A yellow curtain."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple baseball glove.", "sentence": "A purple baseball glove."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue baseball glove.", "sentence": "A blue baseball glove."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white baseball glove.", "sentence": "A white baseball glove."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black baseball glove.", "sentence": "A black baseball glove."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red baseball glove.", "sentence": "A red baseball glove."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow baseball glove.", "sentence": "A yellow baseball glove."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green baseball glove.", "sentence": "A green baseball glove."}
+{"meta_data": {"objects": ["baseball glove"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink baseball glove.", "sentence": "A pink baseball glove."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green dining table.", "sentence": "A green dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue dining table.", "sentence": "A blue dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red dining table.", "sentence": "A red dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white dining table.", "sentence": "A white dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink dining table.", "sentence": "A pink dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple dining table.", "sentence": "A purple dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black dining table.", "sentence": "A black dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow dining table.", "sentence": "A yellow dining table."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green bench.", "sentence": "A green bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black bench.", "sentence": "A black bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink bench.", "sentence": "A pink bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red bench.", "sentence": "A red bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple bench.", "sentence": "A purple bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white bench.", "sentence": "A white bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue bench.", "sentence": "A blue bench."}
+{"meta_data": {"objects": ["bench"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow bench.", "sentence": "A yellow bench."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue plate.", "sentence": "A blue plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow plate.", "sentence": "A yellow plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple plate.", "sentence": "A purple plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red plate.", "sentence": "A red plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black plate.", "sentence": "A black plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink plate.", "sentence": "A pink plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green plate.", "sentence": "A green plate."}
+{"meta_data": {"objects": ["plate"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white plate.", "sentence": "A white plate."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of yellow trousers.", "sentence": "A pair of yellow trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of white trousers.", "sentence": "A pair of white trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of purple trousers.", "sentence": "A pair of purple trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of blue trousers.", "sentence": "A pair of blue trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of black trousers.", "sentence": "A pair of black trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of green trousers.", "sentence": "A pair of green trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of pink trousers.", "sentence": "A pair of pink trousers."}
+{"meta_data": {"objects": ["trousers"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of red trousers.", "sentence": "A pair of red trousers."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white couch.", "sentence": "A white couch."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow couch.", "sentence": "A yellow couch."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black couch.", "sentence": "A black couch."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue couch.", "sentence": "A blue couch."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink couch.", "sentence": "A pink couch."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red couch.", "sentence": "A red couch."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green couch.", "sentence": "A green couch."}
+{"meta_data": {"objects": ["couch"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple couch.", "sentence": "A purple couch."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red potted plant.", "sentence": "A red potted plant."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black potted plant.", "sentence": "A black potted plant."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green potted plant.", "sentence": "A green potted plant."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow potted plant.", "sentence": "A yellow potted plant."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white potted plant.", "sentence": "A white potted plant."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple potted plant.", "sentence": "A purple potted plant."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue potted plant.", "sentence": "A blue potted plant."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink potted plant.", "sentence": "A pink potted plant."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue car.", "sentence": "A blue car."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red car.", "sentence": "A red car."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black car.", "sentence": "A black car."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow car.", "sentence": "A yellow car."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white car.", "sentence": "A white car."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green car.", "sentence": "A green car."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple car.", "sentence": "A purple car."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink car.", "sentence": "A pink car."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink laptop.", "sentence": "A pink laptop."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow laptop.", "sentence": "A yellow laptop."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black laptop.", "sentence": "A black laptop."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red laptop.", "sentence": "A red laptop."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue laptop.", "sentence": "A blue laptop."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white laptop.", "sentence": "A white laptop."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple laptop.", "sentence": "A purple laptop."}
+{"meta_data": {"objects": ["laptop"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green laptop.", "sentence": "A green laptop."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink clock.", "sentence": "A pink clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white clock.", "sentence": "A white clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black clock.", "sentence": "A black clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple clock.", "sentence": "A purple clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow clock.", "sentence": "A yellow clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue clock.", "sentence": "A blue clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red clock.", "sentence": "A red clock."}
+{"meta_data": {"objects": ["clock"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green clock.", "sentence": "A green clock."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow sandwich.", "sentence": "A yellow sandwich."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue sandwich.", "sentence": "A blue sandwich."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red sandwich.", "sentence": "A red sandwich."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white sandwich.", "sentence": "A white sandwich."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink sandwich.", "sentence": "A pink sandwich."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green sandwich.", "sentence": "A green sandwich."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple sandwich.", "sentence": "A purple sandwich."}
+{"meta_data": {"objects": ["sandwich"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black sandwich.", "sentence": "A black sandwich."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red frisbee.", "sentence": "A red frisbee."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple frisbee.", "sentence": "A purple frisbee."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black frisbee.", "sentence": "A black frisbee."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink frisbee.", "sentence": "A pink frisbee."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue frisbee.", "sentence": "A blue frisbee."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green frisbee.", "sentence": "A green frisbee."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow frisbee.", "sentence": "A yellow frisbee."}
+{"meta_data": {"objects": ["frisbee"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white frisbee.", "sentence": "A white frisbee."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow toaster.", "sentence": "A yellow toaster."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green toaster.", "sentence": "A green toaster."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white toaster.", "sentence": "A white toaster."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue toaster.", "sentence": "A blue toaster."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red toaster.", "sentence": "A red toaster."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple toaster.", "sentence": "A purple toaster."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink toaster.", "sentence": "A pink toaster."}
+{"meta_data": {"objects": ["toaster"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black toaster.", "sentence": "A black toaster."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green sheep.", "sentence": "A green sheep."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white sheep.", "sentence": "A white sheep."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple sheep.", "sentence": "A purple sheep."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red sheep.", "sentence": "A red sheep."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink sheep.", "sentence": "A pink sheep."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black sheep.", "sentence": "A black sheep."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue sheep.", "sentence": "A blue sheep."}
+{"meta_data": {"objects": ["sheep"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow sheep.", "sentence": "A yellow sheep."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white traffic light.", "sentence": "A white traffic light."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue traffic light.", "sentence": "A blue traffic light."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple traffic light.", "sentence": "A purple traffic light."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black traffic light.", "sentence": "A black traffic light."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green traffic light.", "sentence": "A green traffic light."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow traffic light.", "sentence": "A yellow traffic light."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red traffic light.", "sentence": "A red traffic light."}
+{"meta_data": {"objects": ["traffic light"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink traffic light.", "sentence": "A pink traffic light."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black train.", "sentence": "A black train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green train.", "sentence": "A green train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white train.", "sentence": "A white train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow train.", "sentence": "A yellow train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue train.", "sentence": "A blue train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red train.", "sentence": "A red train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink train.", "sentence": "A pink train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple train.", "sentence": "A purple train."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green microwave.", "sentence": "A green microwave."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red microwave.", "sentence": "A red microwave."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black microwave.", "sentence": "A black microwave."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white microwave.", "sentence": "A white microwave."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink microwave.", "sentence": "A pink microwave."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue microwave.", "sentence": "A blue microwave."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow microwave.", "sentence": "A yellow microwave."}
+{"meta_data": {"objects": ["microwave"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple microwave.", "sentence": "A purple microwave."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black cat.", "sentence": "A black cat."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green cat.", "sentence": "A green cat."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink cat.", "sentence": "A pink cat."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red cat.", "sentence": "A red cat."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue cat.", "sentence": "A blue cat."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple cat.", "sentence": "A purple cat."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow cat.", "sentence": "A yellow cat."}
+{"meta_data": {"objects": ["cat"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white cat.", "sentence": "A white cat."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green tennis racket.", "sentence": "A green tennis racket."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow tennis racket.", "sentence": "A yellow tennis racket."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white tennis racket.", "sentence": "A white tennis racket."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue tennis racket.", "sentence": "A blue tennis racket."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink tennis racket.", "sentence": "A pink tennis racket."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red tennis racket.", "sentence": "A red tennis racket."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black tennis racket.", "sentence": "A black tennis racket."}
+{"meta_data": {"objects": ["tennis racket"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple tennis racket.", "sentence": "A purple tennis racket."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of green eye glasses.", "sentence": "A pair of green eye glasses."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of purple eye glasses.", "sentence": "A pair of purple eye glasses."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of white eye glasses.", "sentence": "A pair of white eye glasses."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of black eye glasses.", "sentence": "A pair of black eye glasses."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of pink eye glasses.", "sentence": "A pair of pink eye glasses."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of blue eye glasses.", "sentence": "A pair of blue eye glasses."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of yellow eye glasses.", "sentence": "A pair of yellow eye glasses."}
+{"meta_data": {"objects": ["eye glasses"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of red eye glasses.", "sentence": "A pair of red eye glasses."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white giraffe.", "sentence": "A white giraffe."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue giraffe.", "sentence": "A blue giraffe."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple giraffe.", "sentence": "A purple giraffe."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black giraffe.", "sentence": "A black giraffe."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green giraffe.", "sentence": "A green giraffe."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink giraffe.", "sentence": "A pink giraffe."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow giraffe.", "sentence": "A yellow giraffe."}
+{"meta_data": {"objects": ["giraffe"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red giraffe.", "sentence": "A red giraffe."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black suitcase.", "sentence": "A black suitcase."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green suitcase.", "sentence": "A green suitcase."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple suitcase.", "sentence": "A purple suitcase."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white suitcase.", "sentence": "A white suitcase."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow suitcase.", "sentence": "A yellow suitcase."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue suitcase.", "sentence": "A blue suitcase."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink suitcase.", "sentence": "A pink suitcase."}
+{"meta_data": {"objects": ["suitcase"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red suitcase.", "sentence": "A red suitcase."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white tv.", "sentence": "A white tv."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black tv.", "sentence": "A black tv."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink tv.", "sentence": "A pink tv."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple tv.", "sentence": "A purple tv."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow tv.", "sentence": "A yellow tv."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red tv.", "sentence": "A red tv."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue tv.", "sentence": "A blue tv."}
+{"meta_data": {"objects": ["tv"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green tv.", "sentence": "A green tv."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink fire hydrant.", "sentence": "A pink fire hydrant."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple fire hydrant.", "sentence": "A purple fire hydrant."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green fire hydrant.", "sentence": "A green fire hydrant."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow fire hydrant.", "sentence": "A yellow fire hydrant."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black fire hydrant.", "sentence": "A black fire hydrant."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red fire hydrant.", "sentence": "A red fire hydrant."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue fire hydrant.", "sentence": "A blue fire hydrant."}
+{"meta_data": {"objects": ["fire hydrant"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white fire hydrant.", "sentence": "A white fire hydrant."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white fork.", "sentence": "A white fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green fork.", "sentence": "A green fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black fork.", "sentence": "A black fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red fork.", "sentence": "A red fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink fork.", "sentence": "A pink fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow fork.", "sentence": "A yellow fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple fork.", "sentence": "A purple fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue fork.", "sentence": "A blue fork."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue banana.", "sentence": "A blue banana."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red banana.", "sentence": "A red banana."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green banana.", "sentence": "A green banana."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black banana.", "sentence": "A black banana."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple banana.", "sentence": "A purple banana."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink banana.", "sentence": "A pink banana."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow banana.", "sentence": "A yellow banana."}
+{"meta_data": {"objects": ["banana"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white banana.", "sentence": "A white banana."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of purple scissors.", "sentence": "A pair of purple scissors."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of pink scissors.", "sentence": "A pair of pink scissors."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of blue scissors.", "sentence": "A pair of blue scissors."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of white scissors.", "sentence": "A pair of white scissors."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of red scissors.", "sentence": "A pair of red scissors."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of green scissors.", "sentence": "A pair of green scissors."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of black scissors.", "sentence": "A pair of black scissors."}
+{"meta_data": {"objects": ["scissors"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pair of yellow scissors.", "sentence": "A pair of yellow scissors."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white cup.", "sentence": "A white cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink cup.", "sentence": "A pink cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple cup.", "sentence": "A purple cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green cup.", "sentence": "A green cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue cup.", "sentence": "A blue cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow cup.", "sentence": "A yellow cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black cup.", "sentence": "A black cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red cup.", "sentence": "A red cup."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white bird.", "sentence": "A white bird."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue bird.", "sentence": "A blue bird."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow bird.", "sentence": "A yellow bird."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink bird.", "sentence": "A pink bird."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red bird.", "sentence": "A red bird."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green bird.", "sentence": "A green bird."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple bird.", "sentence": "A purple bird."}
+{"meta_data": {"objects": ["bird"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black bird.", "sentence": "A black bird."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green dress.", "sentence": "A green dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue dress.", "sentence": "A blue dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink dress.", "sentence": "A pink dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black dress.", "sentence": "A black dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple dress.", "sentence": "A purple dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow dress.", "sentence": "A yellow dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red dress.", "sentence": "A red dress."}
+{"meta_data": {"objects": ["dress"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white dress.", "sentence": "A white dress."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black hair drier.", "sentence": "A black hair drier."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white hair drier.", "sentence": "A white hair drier."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow hair drier.", "sentence": "A yellow hair drier."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple hair drier.", "sentence": "A purple hair drier."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink hair drier.", "sentence": "A pink hair drier."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue hair drier.", "sentence": "A blue hair drier."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green hair drier.", "sentence": "A green hair drier."}
+{"meta_data": {"objects": ["hair drier"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red hair drier.", "sentence": "A red hair drier."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white zebra.", "sentence": "A white zebra."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow zebra.", "sentence": "A yellow zebra."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue zebra.", "sentence": "A blue zebra."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink zebra.", "sentence": "A pink zebra."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black zebra.", "sentence": "A black zebra."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green zebra.", "sentence": "A green zebra."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red zebra.", "sentence": "A red zebra."}
+{"meta_data": {"objects": ["zebra"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple zebra.", "sentence": "A purple zebra."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow chair.", "sentence": "A yellow chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green chair.", "sentence": "A green chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple chair.", "sentence": "A purple chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white chair.", "sentence": "A white chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black chair.", "sentence": "A black chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue chair.", "sentence": "A blue chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red chair.", "sentence": "A red chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink chair.", "sentence": "A pink chair."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow carpet.", "sentence": "A yellow carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red carpet.", "sentence": "A red carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple carpet.", "sentence": "A purple carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue carpet.", "sentence": "A blue carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink carpet.", "sentence": "A pink carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white carpet.", "sentence": "A white carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black carpet.", "sentence": "A black carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green carpet.", "sentence": "A green carpet."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow skateboard.", "sentence": "A yellow skateboard."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red skateboard.", "sentence": "A red skateboard."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue skateboard.", "sentence": "A blue skateboard."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green skateboard.", "sentence": "A green skateboard."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple skateboard.", "sentence": "A purple skateboard."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink skateboard.", "sentence": "A pink skateboard."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black skateboard.", "sentence": "A black skateboard."}
+{"meta_data": {"objects": ["skateboard"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white skateboard.", "sentence": "A white skateboard."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red mouse.", "sentence": "A red mouse."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black mouse.", "sentence": "A black mouse."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue mouse.", "sentence": "A blue mouse."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple mouse.", "sentence": "A purple mouse."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white mouse.", "sentence": "A white mouse."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green mouse.", "sentence": "A green mouse."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink mouse.", "sentence": "A pink mouse."}
+{"meta_data": {"objects": ["mouse"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow mouse.", "sentence": "A yellow mouse."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black handbag.", "sentence": "A black handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink handbag.", "sentence": "A pink handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red handbag.", "sentence": "A red handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple handbag.", "sentence": "A purple handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow handbag.", "sentence": "A yellow handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green handbag.", "sentence": "A green handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white handbag.", "sentence": "A white handbag."}
+{"meta_data": {"objects": ["handbag"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue handbag.", "sentence": "A blue handbag."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black kite.", "sentence": "A black kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green kite.", "sentence": "A green kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink kite.", "sentence": "A pink kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white kite.", "sentence": "A white kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue kite.", "sentence": "A blue kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple kite.", "sentence": "A purple kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red kite.", "sentence": "A red kite."}
+{"meta_data": {"objects": ["kite"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow kite.", "sentence": "A yellow kite."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white cake.", "sentence": "A white cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple cake.", "sentence": "A purple cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green cake.", "sentence": "A green cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow cake.", "sentence": "A yellow cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black cake.", "sentence": "A black cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink cake.", "sentence": "A pink cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue cake.", "sentence": "A blue cake."}
+{"meta_data": {"objects": ["cake"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red cake.", "sentence": "A red cake."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple toilet.", "sentence": "A purple toilet."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue toilet.", "sentence": "A blue toilet."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black toilet.", "sentence": "A black toilet."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green toilet.", "sentence": "A green toilet."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink toilet.", "sentence": "A pink toilet."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red toilet.", "sentence": "A red toilet."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white toilet.", "sentence": "A white toilet."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow toilet.", "sentence": "A yellow toilet."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A white oven.", "sentence": "A white oven."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A purple oven.", "sentence": "A purple oven."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A pink oven.", "sentence": "A pink oven."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A black oven.", "sentence": "A black oven."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A green oven.", "sentence": "A green oven."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A blue oven.", "sentence": "A blue oven."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A red oven.", "sentence": "A red oven."}
+{"meta_data": {"objects": ["oven"], "tags": {"aspect": "attribute_binding_color", "objects number": 1}}, "prototype": "A yellow oven.", "sentence": "A yellow oven."}

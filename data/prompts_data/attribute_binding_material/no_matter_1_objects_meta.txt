@@ -1,0 +1,200 @@
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a copper fork", "sentence": "A copper fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood fork", "sentence": "A wooden fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic fork", "sentence": "A plastic fork made of plastic."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a gold fork", "sentence": "A golden fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stainless steel fork", "sentence": "A fork made of stainless steel."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a aluminum fork", "sentence": "An aluminum fork."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a brass fork", "sentence": "A fork made of brass."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a silver fork", "sentence": "A fork made of silver."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bone fork", "sentence": "A fork made of bone."}
+{"meta_data": {"objects": ["fork"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic fork", "sentence": "A ceramic fork."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass chair", "sentence": "A chair made of glass."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric chair", "sentence": "A chair made of fabric."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a velvet chair", "sentence": "A chair made of velvet."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a upholstered chair", "sentence": "An upholstered chair made of fabric."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a rattan chair", "sentence": "A rattan chair."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wicker chair", "sentence": "A chair made of wicker."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a microfiber chair", "sentence": "A chair made of microfiber."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bamboo chair", "sentence": "A chair made of bamboo."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a acrylic chair", "sentence": "A chair made of acrylic."}
+{"meta_data": {"objects": ["chair"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic chair", "sentence": "A chair made of plastic."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stone dining table", "sentence": "A dining table made of stone."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a granite dining table", "sentence": "A dining table made of granite."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a acrylic dining table", "sentence": "A dining table made of acrylic."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a resin dining table", "sentence": "A resin dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal dining table", "sentence": "A metal dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a concrete dining table", "sentence": "A dining table made of concrete."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a marble dining table", "sentence": "A marble dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass dining table", "sentence": "A glass dining table made of glass."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic dining table", "sentence": "A ceramic dining table."}
+{"meta_data": {"objects": ["dining table"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood dining table", "sentence": "A wooden dining table."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood toilet", "sentence": "A wooden toilet."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a tile toilet", "sentence": "A toilet made of tiles."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a granite toilet", "sentence": "A toilet made of granite."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stainless steel toilet", "sentence": "A toilet made of stainless steel."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass toilet", "sentence": "A toilet made of glass."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a brass toilet", "sentence": "A toilet made of brass."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a chrome toilet", "sentence": "A chrome toilet."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a resin toilet", "sentence": "A toilet made of resin."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a marble toilet", "sentence": "A toilet made of marble."}
+{"meta_data": {"objects": ["toilet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic toilet", "sentence": "A ceramic toilet."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal airplane", "sentence": "A metallic airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic airplane", "sentence": "A plastic airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass airplane", "sentence": "A glass airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood airplane", "sentence": "An airplane made of wood."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather airplane", "sentence": "A leather-covered airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a foam airplane", "sentence": "A foam airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood airplane", "sentence": "A wooden airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a rubber airplane", "sentence": "A rubber airplane."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic airplane", "sentence": "A ceramic airplane made of clay."}
+{"meta_data": {"objects": ["airplane"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric airplane", "sentence": "A fabric-covered airplane."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal cup", "sentence": "A metal cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a paper cup", "sentence": "A cup made of paper."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood cup", "sentence": "A wooden cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a silicone cup", "sentence": "A cup made of silicone."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic cup", "sentence": "A plastic cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stone cup", "sentence": "A cup made of stone."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather cup", "sentence": "A cup made of leather."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic cup", "sentence": "A ceramic cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bamboo cup", "sentence": "A bamboo cup."}
+{"meta_data": {"objects": ["cup"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a clay cup", "sentence": "A ceramic cup."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stainless steel spoon", "sentence": "A spoon made of stainless steel."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood spoon", "sentence": "A wooden spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic spoon", "sentence": "A ceramic spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ivory spoon", "sentence": "An ivory spoon made of ivory."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a resin spoon", "sentence": "A spoon made of resin."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a silver spoon", "sentence": "A silver spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a brass spoon", "sentence": "A brass spoon."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bamboo spoon", "sentence": "A spoon made of bamboo."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a titanium spoon", "sentence": "A spoon made of titanium."}
+{"meta_data": {"objects": ["spoon"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a copper spoon", "sentence": "A copper spoon."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal potted plant", "sentence": "A potted plant made of metal."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a terracotta potted plant", "sentence": "A potted plant made of terracotta."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a concrete potted plant", "sentence": "A potted plant made of concrete."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass potted plant", "sentence": "A potted plant in a glass container."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wicker potted plant", "sentence": "A potted plant made of wicker."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stone potted plant", "sentence": "A potted plant made of stone."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood potted plant", "sentence": "A potted plant made of wood."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic potted plant", "sentence": "A potted plant made of ceramic."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic potted plant", "sentence": "A potted plant made of plastic."}
+{"meta_data": {"objects": ["potted plant"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric potted plant", "sentence": "A potted plant made of fabric."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass bed", "sentence": "A glass bed made of glass."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wicker bed", "sentence": "A bed made of wicker."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bamboo bed", "sentence": "A bed made of bamboo."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a rattan bed", "sentence": "A bed made of rattan."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a concrete bed", "sentence": "A bed made of concrete."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood bed", "sentence": "A wooden bed."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal bed", "sentence": "A bed made of metal."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stone bed", "sentence": "A bed made of stone."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a upholstered bed", "sentence": "A bed upholstered in fabric."}
+{"meta_data": {"objects": ["bed"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a velvet bed", "sentence": "A bed made of velvet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood carpet", "sentence": "A wooden carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a acrylic carpet", "sentence": "An acrylic carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stone carpet", "sentence": "A carpet made of stone."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wool carpet", "sentence": "A carpet made of wool."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bamboo carpet", "sentence": "A bamboo carpet made of natural fibers."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a concrete carpet", "sentence": "A carpet made of concrete."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric carpet", "sentence": "A carpet made of fabric."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather carpet", "sentence": "A carpet made of leather."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic carpet", "sentence": "A plastic carpet."}
+{"meta_data": {"objects": ["carpet"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a cotton carpet", "sentence": "A cotton carpet."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather train", "sentence": "A train made of leather."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a rubber train", "sentence": "A rubber train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic train", "sentence": "A ceramic train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal train", "sentence": "A metallic train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood train", "sentence": "A wooden train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood train", "sentence": "A wooden train."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a foam train", "sentence": "A train made of foam."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric train", "sentence": "A train made of fabric."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass train", "sentence": "A train made of glass."}
+{"meta_data": {"objects": ["train"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic train", "sentence": "A plastic train toy."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric bus", "sentence": "A bus made of fabric."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic bus", "sentence": "A plastic bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather bus", "sentence": "A bus made of leather."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bamboo bus", "sentence": "A bamboo bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood bus", "sentence": "A wooden bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a rubber bus", "sentence": "A rubber-made bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic bus", "sentence": "A ceramic bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a concrete bus", "sentence": "A bus made of concrete."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a aluminum bus", "sentence": "An aluminum bus."}
+{"meta_data": {"objects": ["bus"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fiberglass bus", "sentence": "A bus made of fiberglass."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood boat", "sentence": "A wooden boat."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a steel boat", "sentence": "A steel boat made of steel."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a synthetic fabrics boat", "sentence": "A boat made of synthetic fabrics."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a aluminum boat", "sentence": "An aluminum boat."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a copper boat", "sentence": "A boat made of copper."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a carbon fiber boat", "sentence": "A boat made of carbon fiber."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a brass boat", "sentence": "A boat made of brass."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a canvas boat", "sentence": "A boat made of canvas."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a resin boat", "sentence": "A boat made of resin."}
+{"meta_data": {"objects": ["boat"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather boat", "sentence": "A boat made of leather."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a resin bottle", "sentence": "A bottle made of resin."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood bottle", "sentence": "A wooden bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather bottle", "sentence": "A bottle made of leather."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic bottle", "sentence": "A plastic bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass bottle", "sentence": "A glass bottle."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bamboo bottle", "sentence": "A bottle made of bamboo."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric bottle", "sentence": "A bottle made of fabric."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic bottle", "sentence": "A ceramic bottle made of clay."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a paper bottle", "sentence": "A bottle made of paper."}
+{"meta_data": {"objects": ["bottle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a silicone bottle", "sentence": "A bottle made of silicone."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric car", "sentence": "A car made of fabric."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a suede car", "sentence": "A car with a suede interior."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a marble car", "sentence": "A car made of marble."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass car", "sentence": "A car made of glass."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a acrylic car", "sentence": "An acrylic car."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather car", "sentence": "A car with a leather interior."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a rubber car", "sentence": "A car made of rubber."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramics car", "sentence": "A ceramic car."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal car", "sentence": "A car made of metal."}
+{"meta_data": {"objects": ["car"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a aluminum car", "sentence": "An aluminum car."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood bowl", "sentence": "A wooden bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a porcelain bowl", "sentence": "A porcelain bowl made of porcelain."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic bowl", "sentence": "A plastic bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a brass bowl", "sentence": "A bowl made of brass."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a aluminum bowl", "sentence": "An aluminum bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a copper bowl", "sentence": "A copper bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bamboo bowl", "sentence": "A bamboo bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a granite bowl", "sentence": "A bowl made of granite."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a marble bowl", "sentence": "A marble bowl."}
+{"meta_data": {"objects": ["bowl"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass bowl", "sentence": "A glass bowl."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic truck", "sentence": "A truck made of plastic."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a rubber truck", "sentence": "A rubber toy truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass truck", "sentence": "A truck made of glass."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather truck", "sentence": "A truck made of leather."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal truck", "sentence": "A metal truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a foam truck", "sentence": "A foam-filled truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood truck", "sentence": "A wooden truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric truck", "sentence": "A truck made of fabric."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic truck", "sentence": "A ceramic truck."}
+{"meta_data": {"objects": ["truck"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood truck", "sentence": "A wooden truck."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leather motorcycle", "sentence": "A motorcycle made of leather."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal motorcycle", "sentence": "A metallic motorcycle."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a aluminum motorcycle", "sentence": "An aluminum motorcycle."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood motorcycle", "sentence": "A wooden motorcycle."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stainless steel motorcycle", "sentence": "A motorcycle made of stainless steel."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a rubber motorcycle", "sentence": "A motorcycle made of rubber."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a chrome motorcycle", "sentence": "A motorcycle made of chrome."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a carbon fiber motorcycle", "sentence": "A motorcycle made of carbon fiber."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a fabric motorcycle", "sentence": "A motorcycle made of fabric."}
+{"meta_data": {"objects": ["motorcycle"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stone motorcycle", "sentence": "A motorcycle made of stone."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a glass knife", "sentence": "A glass knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a metal knife", "sentence": "A metallic knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ivory knife", "sentence": "An ivory-handled knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a leathe knife", "sentence": "A leather knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a bone knife", "sentence": "A knife made of bone."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stone knife", "sentence": "A knife made of stone."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a carbon fiber knife", "sentence": "A carbon-fiber knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a plastic knife", "sentence": "A plastic knife."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a ceramic knife", "sentence": "A knife made of ceramic."}
+{"meta_data": {"objects": ["knife"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wood knife", "sentence": "A wooden knife."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a canvas curtain", "sentence": "A canvas curtain."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a velvet curtain", "sentence": "A curtain made of velvet."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a lace curtain", "sentence": "A curtain made of lace."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a silk curtain", "sentence": "A curtain made of silk."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a wool curtain", "sentence": "A curtain made of wool."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a polyester curtain", "sentence": "A curtain made of polyester."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a nylon curtain", "sentence": "A curtain made of nylon."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a suede curtain", "sentence": "A curtain made of suede."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a linen curtain", "sentence": "A curtain made of linen."}
+{"meta_data": {"objects": ["curtain"], "tags": {"aspect": "attribute_binding_material", "objects number": 1}}, "prototype": "a stone curtain", "sentence": "A curtain made of stone."}
